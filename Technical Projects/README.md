@@ -1,46 +1,46 @@
 # Technical Projects
 2025</br>
-"***Mirage***" - A small and portable DIY 3D printer built for versatility and performance</br>
+"***Mirage***" - A compact DIY 3D printer built for versatility, portability, and performance</br>
 "***SIGLA***" - A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD
 
 2024</br>
 Unpublished toolhead for 3D printer Kingroon KP3S 3.0
 
 2019</br>
-"***Hiraya***" - A four wheeled prototype eco vehicle running on diesel engine
+"***Hiraya***" - A four-wheeled prototype vehicle running on diesel engine
 
 2018</br>
-"***Agimat V2.0***" -  A three wheeled prototype eco vehicle running on a lithium-ion battery
+"***Agimat V2.0***" -  A three-wheeled prototype vehicle running on a lithium-ion battery
 
-## Portable DIY 3D Printer *"Mirage"* (2025)(On-going)
+## Compact DIY 3D Printer *"Mirage"* (2025)(On-going)
 
-<img src=".docs/images/Mirage_Enclosed.jpg" alt="Mirage_Enclosed" width="300" />
+<img src=".docs/images/Mirage_Enclosed.jpg" alt="Mirage Enclosed" width="390"/>
 
-A compact and portable DIY 3D printer built for versatility and performance.
-Fast print and setup times make it an excellent backup printer for small parts, and ideal for on-the-go demos and presentations.
-Powered by Klipper firmware, the printer can be fully controlled from any device with a web browser, as long as it's on the same network.
+A compact DIY 3D printer built for versatility, portability, and performance.
+Fast print speeds and setup times make it an excellent backup printer for small parts, and ideal for on-the-go demos and presentations.
+Powered by Klipper firmware, the printer can be fully operated from any device with a web browser, as long as it's connected on the same network.
 
 - The design, assembly and configuration process was handled end-to-end.
-- Designed in CAD: **Siemens NX**
+- Designed and layout using CAD: **Siemens NX**
   
-<img src=".docs/GIFs/Voron_0.gif" alt="Mirage_Open" width="450"/>
+<img src=".docs/GIFs/Voron_0.gif" alt="Voron 0.2 GIF" width="390"/>
 
 This is a personal project based on the Voron 0.2 by VoronDesign, with several custom modifications to enhance usability and performance.
 
 #### **Hardware Changes from Stock Design** :
 - Custom *“Dragonburner”* Toolhead
-  - Lighter toolhead design
+  - Lightweight toolhead design
   - Dual 4010 part cooling fans
   - RGB LED nozzle lighting & RGB LED logo 
-  - Customized Wristwatch BMG extruder
-  - Separate CAN-based control board
+  - Customized *"Wristwatch"* BMG extruder
+  - Separate control board
 - Servo-deployed magnetic Z-probe
-- Dual shear A/B motor mounts for improved structural rigidity
+- Dual shear A/B motor mounts
 - Recirculating carbon air filter
 - Removable and taller top-hat with lever camlocks
 - Foldable spool holder
 - Purge bucket
-- Chamber thermistor for enclosure temperature monitoring
+- Enclosure temperature monitoring
 - Low-profile side handles
 - Frame stiffening braces
 - Integrated RGB LED lighting and remote monitoring camera
@@ -50,59 +50,59 @@ This is a personal project based on the Voron 0.2 by VoronDesign, with several c
 - Extensive custom macros for automation and maintenance
 - New UI display interface commands
 ## Neurotech Project *"SIGLA"* (2025)
-<div style="margin-left: 20px;">
-  <img src=".docs/images/SIGLA_Logo.png" alt="SIGLA_Logo" width="300" style="margin-right: 20px;" />
-  <img src=".docs/images/IBEHT_Logo.png" alt="IBEHT_Logo" width="300" />
+<div>
+  <img src=".docs/images/SIGLA_Logo.png" alt="SIGLA Logo" width="390"/>
+  <img src=".docs/images/IBEHT_Logo.png" alt="IBEHT Logo" width="390"/>
 </div>
 
 A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD. Utilizes EEG and virtual reality technologies to support depression therapy by analyzing EEG signals within an immersive virtual environment.
 #### Role: Prototype and VR Development
 
-- Design, development, and assembly of the prototype 3D printed components. 
-- Parts fabrication by operating multiple FDM printers.
-- Designed in CAD: **Blender**
+- Design, development, and assembly of the prototype structure. 
+- Parts fabrication by operating multiple FDM 3D printers.
 - Assist main VR developer in creating necessary scripts for the Unity project.
+- Designed and layout using CAD: **Blender**
 - Developed scripts using: **Python** and **C#**
 
 ## Unpublished toolhead for 3D printer Kingroon KP3S 3.0 (2024)
 
-<img src=".docs/images/KP3S_DB.png" alt="KP3S_Toolhead" width="300"/>
+<img src=".docs/images/KP3S_DB.png" alt="KP3S Toolhead" width="390"/>
 
-A retrofitted toolhead into the commercial 3D printer by Kingroon KP3S 3.0 Offers improved part cooling, enabling faster print speeds and the ability to print non-exotic, high temperature materials (ABS and ASA).
+A retrofitted toolhead into the commercial 3D printer by Kingroon KP3S 3.0 Offers improved part cooling, enabling faster print speeds, automatic bed leveling and the ability to print non-exotic, high temperature materials (ABS and ASA) compared to stock toolhead.
 
 - Current design is not optimized and is for personal use only. It was needed immediately to print **ABS** parts.
-- Designed in CAD: **NX Siemens**
+- Designed and layout using CAD: **NX Siemens**
   
-<img src=".docs/GIFs/KP3S_GIF.gif" alt="IBEHT_Logo" width="300" />
+<img src=".docs/GIFs/KP3S_GIF.gif" alt="KP3S GIF" width="390"/>
 
 #### **Design highlights** :
   - Used the original mounting plate, extruder, X homing switch and wire harness
-  - Has a BLTouch bed levelling probe
-  - Has an all metal hotend
+  - BLTouch bed levelling probe
+  - TZ-V6 2.0 all metal hotend
   - Dual 4010 fans for part cooling
   - Robust assembly and hidden wires
-  - <span style="color:#8B0000">Everything was bolted with nuts for assembly</span> (I didn't have threaded inserts on hand)
+  - Everything was bolted with nuts for assembly</span> (I didn't have threaded inserts on hand)
 
 ## Eco Car *"Hiraya"* (2019)
-<img src=".docs/images/Hiraya_No_Background.jpg" alt="Hiraya" width="300"/>
+<img src=".docs/images/Hiraya_No_Background.jpg" alt="Hiraya" width="390"/>
 
-A four-wheeled prototype eco vehicle running on diesel engine. Represented DLSU-D in the Shell Eco-Marathon Asia 2018 under the "Urban Concept - ICE" category. 
+A four-wheeled prototype eco vehicle running on diesel engine. Represented DLSU-D in the Shell Eco-Marathon Asia 2019 under the "Urban Concept - ICE" category. 
 #### Role: Lead Mechanical Design
 
 - Design and layout of the entire vehicle but mainly focused on the frame, chassis, steering mechanism and covers.
-- Parts fabrication by operating CNC mills as well as manual milling machines and lathes.
-- Designed in CAD: **Solidworks**
+- Aluminum parts fabrication by operating CNC mills as well as manual milling machines and lathes. Exterior covers are made of composite fiber glass material, sheet metal, and clear polycarbonate sheets.
+- Designed and layout using CAD: **Solidworks**
 
 ## Eco Car *"Agimat V2.0"* (2018)
-<img src=".docs/images/Agimat_No_Background.jpg" alt="Agimat" width="300" style="margin-left: 96px;" />
+<img src=".docs/images/Agimat_No_Background.jpg" alt="Agimat" width="390"/>
 
 A three-wheeled prototype eco vehicle running on a lithium-ion battery Represented DLSU-D in the Shell Eco-Marathon Asia 2018 under the "Prototype - Battery 
 Electric" category, securing 15th place based on fuel efficiency among numerous participating teams.
 #### Role: Mechanical Design
 
 - Redesign and layout of the frontal structure, which includes: steering, front suspension, wheels, brakes, structural weight reduction, overall assembly, and other minor components.
-- Parts fabrication by operating CNC mills as well as manual milling machines and lathes.
-- Designed in CAD: **Solidworks**
+- Aluminum parts fabrication by operating CNC mills as well as manual milling machines and lathes.
+- Designed and layout using CAD: **Solidworks**
 
 
 
