@@ -26,6 +26,7 @@ Powered by Klipper firmware, the printer can be fully operated from any device w
 <img src=".docs/GIFs/Voron_0.gif" alt="Voron 0.2 GIF" width="390"/>
 
 This is a personal project based on the Voron 0.2 by VoronDesign, with several custom modifications to enhance usability and performance.
+***Mods documentation:*** https://github.com/Agsikap3D/Voron-0.2-Mods
 
 #### **Hardware Changes from Stock Design** :
 - Custom *“Dragonburner”* Toolhead
