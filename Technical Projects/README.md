@@ -39,6 +39,7 @@ This is a personal project based on the Voron 0.2 by VoronDesign, with several c
 - Dual shear A/B motor mounts
 - Recirculating carbon air filter
 - Removable and taller top-hat with lever camlocks
+- Magnetic Backplate w/ Cooling Fan and USB C port
 - Foldable spool holder
 - Purge bucket
 - Enclosure temperature monitoring
