@@ -2,8 +2,6 @@
 
 <img src=".docs/GIFs/Voron_0.gif" alt="Voron 0.2 GIF" width="390"/>
 
-
-
  (A) [Summary and Features ](./Summary.md/)
 
 > (A.1) [Siboor V0.2 Base Kit](https://docs.siboor.com/siboor-0.2-r1-aug)<br>
@@ -15,7 +13,7 @@
 <br>
 (D) Setup Notes
 
-> (D.1) [Switching WiFi / Connecting to WiFi](./Guides/WiFi.md)<br>
+> (D.1) [Switching WiFi / Connecting to WiFi](./Notes%20and%20Guides/WiFi.md)<br>
 
 > (D.2) Orca Slicer Setup<br>
 >- Setup the default configuration by following the steps provided by [Siboor Guide](https://docs.siboor.com/siboor-0.2-r1-aug/the-build/slicer-setup).<br>
