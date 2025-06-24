@@ -31,6 +31,8 @@
 >- A3D Mirage
 
 (E) Display Controls
+> [Display Menu Tree and Operation](https://github.com/PMNaty/Portfolio/raw/refs/heads/main/Technical%20Projects/A3D%20Mirage%20-%20Compact%20DIY%203D%20Printer/Files/Notes_A3D_Mirage.xlsx)
+
 >- SD Card Files and Start Print
 >- Pause,Resume and Abort
 >- Homing
@@ -55,3 +57,6 @@
 (F) Tuning and Operations
 >- You can refer to the Siboor Manual for tuning the printer. <br>
 >- Custom macros are created to aid tuning the printer, especially when you only have access to the display.
+
+(G) [Important Additional Notes](https://github.com/PMNaty/Portfolio/raw/refs/heads/main/Technical%20Projects/A3D%20Mirage%20-%20Compact%20DIY%203D%20Printer/Files/Notes_A3D_Mirage.xlsx)
+
