@@ -8,7 +8,9 @@ Powered by Klipper firmware, the printer can be fully operated from any device w
 
 This is a personal project based on the Voron 0.2 by VoronDesign, with several custom modifications to enhance usability and performance.
 
+
 #### **Hardware Changes from Stock Design** :
+- Base Kit: Siboor V0.2
 - Custom *“Dragonburner”* Toolhead
   - Lightweight toolhead design
   - Dual 4010 part cooling fans
