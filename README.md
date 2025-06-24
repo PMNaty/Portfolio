@@ -1,5 +1,5 @@
 # Portfolio
-### Technical Projects [[Link]](Technical%20Projects/README.md)
+### Technical Projects [[Link]](Technical%20Projects)
 
 - "***Mirage***" - A compact DIY 3D printer built for versatility, portability, and performance
 - "***SIGLA***" - A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD
