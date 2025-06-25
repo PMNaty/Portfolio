@@ -29,9 +29,11 @@ This is a personal project based on the Voron 0.2 by VoronDesign, with several c
 - Low-profile side handles
 - Frame stiffening braces
 - Electronics side cover
-- Integrated RGB LED lighting and remote monitoring camera
+- Integrated RGB LED lighting
+- Remote monitoring camera
 
 #### **Software Changes**  :
 - Custom Klipper configuration with personal tuning
 - Extensive custom macros for automation and maintenance
+- Signal lights for printer status
 - New UI display interface commands
