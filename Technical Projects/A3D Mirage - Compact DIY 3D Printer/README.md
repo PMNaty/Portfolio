@@ -56,5 +56,5 @@
 >- You can refer to the Siboor Manual for tuning the printer. <br>
 >- Custom macros are created to aid tuning the printer, especially when you only have access to the display.
 
-(G) [Important Additional Notes (*Excel File - Download Button*)](https://github.com/PMNaty/Portfolio/raw/refs/heads/main/Technical%20Projects/A3D%20Mirage%20-%20Compact%20DIY%203D%20Printer/Notes%20and%20Guides/Notes_A3D_Mirage.xlsx)
+(G) [Important Notes for Controlling the Printer (*Excel File - Download Button*)](https://github.com/PMNaty/Portfolio/raw/refs/heads/main/Technical%20Projects/A3D%20Mirage%20-%20Compact%20DIY%203D%20Printer/Notes%20and%20Guides/Notes_A3D_Mirage.xlsx)
 
