@@ -5,7 +5,7 @@
 
 2024</br>
 Unpublished toolhead for 3D printer Kingroon KP3S 3.0</br>
-Design work for autonomous forklifts (AGF's)
+Mechanical design work for autonomous forklifts (AGF's)
 
 2019</br>
 "***Hiraya***" - A four-wheeled prototype vehicle running on diesel engine
