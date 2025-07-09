@@ -4,7 +4,8 @@
 "***SIGLA***" - A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD
 
 2024</br>
-Unpublished toolhead for 3D printer Kingroon KP3S 3.0
+Unpublished toolhead for 3D printer Kingroon KP3S 3.0</br>
+Design work for autonomous forklifts (AGF's)
 
 2019</br>
 "***Hiraya***" - A four-wheeled prototype vehicle running on diesel engine
@@ -57,6 +58,21 @@ A retrofitted toolhead into the commercial 3D printer by Kingroon KP3S 3.0 Offer
   - Dual 4010 fans for part cooling
   - Robust assembly and hidden wires
   - Everything was bolted with nuts for assembly</span> (I didn't have threaded inserts on hand)
+
+## Autonomous Forklifts (AGF's) (2023-2024)
+<img src=https://sumitomonacco.co.jp/images/agf/automated-image.png alt="Hiraya" width="390"/>
+
+A computer-controlled, driverless forklift designed to autonomously transport, load, and unload pallets in warehouses and distribution centers. 
+#### Role: Sub Team Lead / Design Engineer
+
+- Managed and coordinated the Filipino engineering team in the design work of a prototype autonomous forklift,
+ensuring alignment and efficient collaboration with the Japanese parent team. 
+- Designed new forklift components focused on sensor integration for vehicle autonomy and telemetry using **Creo PTC** and **NX Siemens**, handling the full design lifecycle including conceptualization, layout, modeling, drafting,
+documentation, and design data management.
+- Carried out design work for brackets, covers, sheet metal, welded, and machined components, wire harnesses, and
+modification of existing parts to integrate sensors according to task specifications.
+- Practiced reverse engineering, advanced parametric & rapid prototype modelling, GD&T analysis, simple static NX
+FEA, reading electrical schematic & wiring diagrams, creating assembly guides, BOM creation, and processing ECNs.
 
 ## Eco Car *"Hiraya"* (2019)
 <img src=".docs/images/Hiraya_No_Background.jpg" alt="Hiraya" width="390"/>
