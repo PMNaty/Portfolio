@@ -60,9 +60,13 @@ A retrofitted toolhead into the commercial 3D printer by Kingroon KP3S 3.0 Offer
   - Everything was bolted with nuts for assembly</span> (I didn't have threaded inserts on hand)
 
 ## Autonomous Forklifts (AGF's) (2023-2024)
+
 <img src=https://sumitomonacco.co.jp/images/agf/automated-image.png alt="Hiraya" width="390"/>
 
 A computer-controlled, driverless forklift designed to autonomously transport, load, and unload pallets in warehouses and distribution centers. 
+
+["Goto Product Web Page"](https://sumitomonacco.co.jp/en/products/forklift/AGF.html)
+
 #### Role: Sub Team Lead / Design Engineer
 
 - Managed and coordinated the Filipino engineering team in the design work of a prototype autonomous forklift,
