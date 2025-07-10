@@ -7,8 +7,11 @@
 - Mechanical design work on autonomous pallet picker and reach-type forklifts
 - "***Hiraya***" - A four-wheeled prototype eco vehicle running on diesel engine
 - "***Agimat V2.0***" -  A three-wheeled prototype eco vehicle running on a lithium-ion battery
-### CAD Models [[Link]](CAD%20Models)
+### CAD Models [[Link]](https://drive.google.com/drive/folders/1IwTnz4vfvOOT2nfBnu0iPA-vMH862v4E)
+- The models shown are the only ones available for public viewing. Other models are protected under a non-disclosure agreement (NDA).
+
 ### CAD Design [[Link]](CAD%20Design)
+> No examples yet
 
 - Parametric Modelling
 - Synchronous Modelling
