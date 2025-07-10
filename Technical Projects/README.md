@@ -22,7 +22,6 @@ Powered by Klipper firmware, the printer can be fully operated from any device w
 
 
 - The design, assembly and configuration process was handled end-to-end.
-- Designed and layout using CAD: **Siemens NX**
 
 ["Open Project Folder"](./A3D%20Mirage%20-%20Compact%20DIY%203D%20Printer/)<br>
 ["Back to Top"](#technical-projects)
