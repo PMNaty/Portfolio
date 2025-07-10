@@ -1,17 +1,17 @@
 # Technical Projects
 2025</br>
-"***Mirage***" - A compact DIY 3D printer built for versatility, portability, and performance</br>
-"***SIGLA***" - A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD
+- "***Mirage***" - A compact DIY 3D printer built for versatility, portability, and performance [[Link]](#compact-diy-3d-printer-mirage-2025ongoing)</br> 
+- "***SIGLA***" - A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD
 
 2024</br>
-Unpublished toolhead for 3D printer Kingroon KP3S 3.0</br>
-Mechanical design work for autonomous forklifts (AGF's)
+- Unpublished toolhead for 3D printer Kingroon KP3S 3.0</br>
+- Mechanical design work on autonomous pallet picker and reach-type forklifts
 
 2019</br>
-"***Hiraya***" - A four-wheeled prototype vehicle running on diesel engine
+- "***Hiraya***" - A four-wheeled prototype vehicle running on diesel engine
 
 2018</br>
-"***Agimat V2.0***" -  A three-wheeled prototype vehicle running on a lithium-ion battery
+- "***Agimat V2.0***" -  A three-wheeled prototype vehicle running on a lithium-ion battery
 
 ## Compact DIY 3D Printer *"Mirage"* (2025)(On-going)
 
@@ -59,11 +59,11 @@ A retrofitted toolhead into the commercial 3D printer by Kingroon KP3S 3.0 Offer
   - Robust assembly and hidden wires
   - Everything was bolted with nuts for assembly</span> (I didn't have threaded inserts on hand)
 
-## Autonomous Forklifts (AGF's) (2023-2024)
+## Autonomous Forklifts (2023-2024)
 
 <img src=https://sumitomonacco.co.jp/images/agf/automated-image.png alt="Hiraya" width="390"/>
 
-A computer-controlled, driverless forklift designed to autonomously transport, load, and unload pallets in warehouses and distribution centers. 
+A computer-controlled, driverless pallet picker and reach-type forklifts designed to autonomously transport, load, and unload pallets in warehouses and distribution centers. 
 
 ["Goto Product Web Page"](https://sumitomonacco.co.jp/en/products/forklift/AGF.html)
 
@@ -73,12 +73,12 @@ A computer-controlled, driverless forklift designed to autonomously transport, l
 ensuring alignment and efficient collaboration with the Japanese parent team. 
 - Designed new forklift components focused on sensor integration for vehicle autonomy and telemetry using **Creo PTC** and **NX Siemens**, handling the full design lifecycle including conceptualization, layout, modeling, drafting,
 documentation, and design data management.
-- Carried out design work for brackets, covers, sheet metal, welded, and machined components, wire harnesses, and
+- Carried out design work for sensor  and lidar layouts, brackets, covers, sheet metal, welded, and machined components, wire harnesses, and
 modification of existing parts to integrate sensors according to task specifications.
 - Practiced reverse engineering, advanced parametric & rapid prototype modelling, GD&T analysis, simple static NX
 FEA, reading electrical schematic & wiring diagrams, creating assembly guides, BOM creation, and processing ECNs.
 
-## Eco Car *"Hiraya"* (2019)
+## Eco Car *"Hiraya"* (2018-2019)
 <img src=".docs/images/Hiraya_No_Background.jpg" alt="Hiraya" width="390"/>
 
 A four-wheeled prototype eco vehicle running on diesel engine. Represented DLSU-D in the Shell Eco-Marathon Asia 2019 under the "Urban Concept - ICE" category. 
@@ -88,7 +88,7 @@ A four-wheeled prototype eco vehicle running on diesel engine. Represented DLSU-
 - Aluminum parts fabrication by operating CNC mills as well as manual milling machines and lathes. Exterior covers are made of composite fiber glass material, sheet metal, and clear polycarbonate sheets.
 - Designed and layout using CAD: **Solidworks**
 
-## Eco Car *"Agimat V2.0"* (2018)
+## Eco Car *"Agimat V2.0"* (2017-2018)
 <img src=".docs/images/Agimat_No_Background.jpg" alt="Agimat" width="390"/>
 
 A three-wheeled prototype eco vehicle running on a lithium-ion battery Represented DLSU-D in the Shell Eco-Marathon Asia 2018 under the "Prototype - Battery 
