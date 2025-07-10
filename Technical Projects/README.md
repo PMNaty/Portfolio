@@ -1,30 +1,31 @@
 # Technical Projects
 2025</br>
-- "***Mirage***" - A compact DIY 3D printer built for versatility, portability, and performance [[Link]](#compact-diy-3d-printer-mirage-2025ongoing)</br> 
-- "***SIGLA***" - A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD
+- ["***Mirage***"](#compact-diy-3d-printer-mirage-2025on-going) - A compact DIY 3D printer built for versatility, portability, and performance </br> 
+- ["***SIGLA***"](#neurotech-project-sigla-2025) - A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD 
 
-2024</br>
-- Unpublished toolhead for 3D printer Kingroon KP3S 3.0</br>
-- Mechanical design work on autonomous pallet picker and reach-type forklifts
+2024</br> 
+- [[Link]](#unpublished-toolhead-for-3d-printer-kingroon-kp3s-30-2024) Unpublished toolhead for 3D printer Kingroon KP3S 3.0   </br>
+- [[Link]](#autonomous-forklifts-2023-2024)  Mechanical design work on autonomous pallet picker and reach-type forklifts 
 
 2019</br>
-- "***Hiraya***" - A four-wheeled prototype vehicle running on diesel engine
+- ["***Hiraya***"](#eco-car-hiraya-2018-2019) - A four-wheeled prototype vehicle running on diesel engine
 
 2018</br>
-- "***Agimat V2.0***" -  A three-wheeled prototype vehicle running on a lithium-ion battery
+- ["***Agimat V2.0***"](#eco-car-agimat-v20-2017-2018) - A three-wheeled prototype vehicle running on a lithium-ion battery
 
 ## Compact DIY 3D Printer *"Mirage"* (2025)(On-going)
-
 <img src=".docs/images/Mirage_Enclosed.jpg" alt="Mirage Enclosed" width="390"/>
 
 A compact DIY 3D printer built for versatility, portability, and performance.
 Fast print speeds and setup times make it an excellent backup printer for small parts, and ideal for on-the-go demos and presentations.
 Powered by Klipper firmware, the printer can be fully operated from any device with a web browser, as long as it's connected on the same network.
 
-["Open Project Folder"](./A3D%20Mirage%20-%20Compact%20DIY%203D%20Printer/)
+
 - The design, assembly and configuration process was handled end-to-end.
 - Designed and layout using CAD: **Siemens NX**
 
+["Open Project Folder"](./A3D%20Mirage%20-%20Compact%20DIY%203D%20Printer/)<br>
+["Back to Top"](#technical-projects)
 ## Neurotech Project *"SIGLA"* (2025)
 <div>
   <img src=".docs/images/SIGLA_Logo.png" alt="SIGLA Logo" width="390"/>
@@ -39,6 +40,9 @@ A neurotech project under EDA-IBEHT in collaboration with DOST-PCHRD. Utilizes E
 - Assist main VR developer in creating necessary scripts for the Unity project.
 - Designed and layout using CAD: **Blender**
 - Developed scripts using: **Python** and **C#**
+
+["Goto ***SIGLA*** Web Page"](https://www.dlsu.edu.ph/research/research-centers/ibeht/neurotech/)<br>
+["Back to Top"](#technical-projects)
 
 ## Unpublished toolhead for 3D printer Kingroon KP3S 3.0 (2024)
 
@@ -59,13 +63,15 @@ A retrofitted toolhead into the commercial 3D printer by Kingroon KP3S 3.0 Offer
   - Robust assembly and hidden wires
   - Everything was bolted with nuts for assembly</span> (I didn't have threaded inserts on hand)
 
+["Back to Top"](#technical-projects)
+
 ## Autonomous Forklifts (2023-2024)
 
 <img src=https://sumitomonacco.co.jp/images/agf/automated-image.png alt="Hiraya" width="390"/>
 
 A computer-controlled, driverless pallet picker and reach-type forklifts designed to autonomously transport, load, and unload pallets in warehouses and distribution centers. 
 
-["Goto Product Web Page"](https://sumitomonacco.co.jp/en/products/forklift/AGF.html)
+
 
 #### Role: Sub Team Lead / Design Engineer
 
@@ -78,6 +84,9 @@ modification of existing parts to integrate sensors according to task specificat
 - Practiced reverse engineering, advanced parametric & rapid prototype modelling, GD&T analysis, simple static NX
 FEA, reading electrical schematic & wiring diagrams, creating assembly guides, BOM creation, and processing ECNs.
 
+["Goto Product Web Page"](https://sumitomonacco.co.jp/en/products/forklift/AGF.html)<br>
+["Back to Top"](#technical-projects)
+
 ## Eco Car *"Hiraya"* (2018-2019)
 <img src=".docs/images/Hiraya_No_Background.jpg" alt="Hiraya" width="390"/>
 
@@ -87,6 +96,8 @@ A four-wheeled prototype eco vehicle running on diesel engine. Represented DLSU-
 - Design and layout of the entire vehicle but mainly focused on the frame, chassis, steering mechanism and covers.
 - Aluminum parts fabrication by operating CNC mills as well as manual milling machines and lathes. Exterior covers are made of composite fiber glass material, sheet metal, and clear polycarbonate sheets.
 - Designed and layout using CAD: **Solidworks**
+
+["Back to Top"](#technical-projects)
 
 ## Eco Car *"Agimat V2.0"* (2017-2018)
 <img src=".docs/images/Agimat_No_Background.jpg" alt="Agimat" width="390"/>
@@ -98,6 +109,8 @@ Electric" category, securing 15th place based on fuel efficiency among numerous 
 - Redesign and layout of the frontal structure, which includes: steering, front suspension, wheels, brakes, structural weight reduction, overall assembly, and other minor components.
 - Aluminum parts fabrication by operating CNC mills as well as manual milling machines and lathes.
 - Designed and layout using CAD: **Solidworks**
+
+["Back to Top"](#technical-projects)
 
 
 
