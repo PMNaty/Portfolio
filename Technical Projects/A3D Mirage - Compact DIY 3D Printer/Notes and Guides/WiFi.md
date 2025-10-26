@@ -1,7 +1,7 @@
 ## Switching WiFi / Connecting to WiFi
 
 **Goals:**<br>
-1.) To connecting to an existing WiFi network and get the IP address to access the Mainsail page.<br>
+1.) To connect to an existing WiFi network and get the IP address to access the Mainsail page.<br>
 2.) To switch WiFi networks.
 
 *The WiFi connection automatically switches to a different known network when it cannot connect to the main one*
